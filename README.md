@@ -44,6 +44,6 @@
 
 ###
 
-<p align="left">Thank you for your time</p>
+<p align="left">Thank you for visiting this profile</p>
 
 ###
