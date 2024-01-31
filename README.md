@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me: I am a junior Front-ent Developer and UI/UX Designer</h3>
+<h3 align="left">👩‍💻  About Me:</h3>
 
 ###
 
@@ -44,6 +44,6 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">Thank you for your time</p>
 
 ###
